@@ -52,7 +52,7 @@
 	Image Assets	图像资产
 	Place Embedded…	放置嵌入…
 	Place Linked…	链接地点…
-	Package…	套餐…
+	Package…	打包…
 	Automate	自动化
 	Batch…	批量…
 	Create Droplet…	创建水滴…
@@ -69,11 +69,11 @@
 	Flatten All Layer Effects	展平所有图层效果
 	Flatten All Masks	压平所有蒙版
 	Script Events Manager…	脚本事件管理器…
-	Import	进口
+	Import	导入
 	Browse…	浏览…
 	Reveal in Finder	在 Finder 中显示
-	File Info…	Hustle Fresh…
-	Print…	Print…
+	File Info…	文件信息…
+	Print…	打印…
 	Print One Copy	打印一份
 	Exit	退出
 	Undo	撤消
@@ -110,9 +110,9 @@
 	Warp	弯曲
 	Flip Horizontal	水平翻转
 	Flip Vertical	垂直翻转
-	Rotate 180°	旋转180°
-	Rotate 90° Clockwise	顺时针旋转90°
-	Rotate 90° Counter Clockwise	逆时针旋转90°
+	Rotate 180°	旋转 180°
+	Rotate 90° Clockwise	顺时针旋转 90°
+	Rotate 90° Counter Clockwise	逆时针旋转 90°
 	180°	180°
 	90° Clockwise	90° 顺时针
 	90° Counter Clockwise	逆时针 90°
@@ -133,7 +133,7 @@
 	Export/Import Presets…	导出/导入预设…
 	Color Settings…	颜色设置…
 	Assign Profile…	分配配置文件…
-	Convert to Profile…	转换为个人资料…
+	Convert to Profile…	转换为配置文件…
 	Keyboard Shortcuts…	键盘快捷键…
 	Menus…	菜单…
 	Toolbar…	工具栏…
@@ -163,11 +163,11 @@
 	Settings…	设置…
 	Mode	样式
 	Bitmap	位图
-	Grayscale	Grayscale
+	Grayscale	灰度
 	Duotone	双色调
 	Indexed Color	索引颜色
-	RGB Color	RGB颜色
-	CMYK Color	CMYK颜色
+	RGB Color	RGB 颜色
+	CMYK Color	CMYK 颜色
 	Lab Color	实验室颜色
 	Multichannel	多通道
 	8 Bits/Channel	8 位/通道
@@ -178,7 +178,7 @@
 	Duotone…	双色调…
 	Indexed Color…	索引颜色…
 	Adjustments	调整
-	Brightness/Contrast…	亮度 / 对比度…
+	Brightness/Contrast…	亮度/对比度…
 	Levels…	色阶…
 	Curves…	曲线…
 	Exposure…	曝光度…
@@ -200,7 +200,7 @@
 	Match Color…	匹配颜色…
 	Replace Color…	微软雅黑…
 	Equalize	均衡
-	Auto Tone	刘德华
+	Auto Tone	自动色调
 	Auto Contrast	自动对比度
 	Auto Color	自动颜色
 	Image Size…	图像大小…
@@ -219,7 +219,7 @@
 	Data Sets…	数据集…
 	Apply Data Set…	应用数据集…
 	Variable Data Sets…	可变数据集…
-	Trap…	陷阱…
+	Trap…	陷印…
 	Analysis	分析
 	Set Measurement Scale…	设置测量比例…
 	Select Data Points…	选择数据点…
@@ -230,20 +230,20 @@
 	Custom…	自定义…
 	New	新建
 	Layer…	图层…
-	Group…	集团…
+	Group…	分组…
 	Group from Layers…	从层中分组…
 	Artboard…	画板…
-	Artboard from Group…	来自集团的画板…
+	Artboard from Group…	来自分组的画板…
 	Artboard from Layers…	图层中的画板…
 	Layer via Copy	图层（通过复制）
 	Layer via Cut	通过剪切新建图层
 	Layer From Background…	从背景层…
 	Layer from Background…	从背景层…
-	New Shape Layer	新形状层
-	New Type Layer	新型图层
-	New Fill Layer	新建图层
-	New Adjustment Layer	新调整图层
-	New Layer Based Slice	基于新层的切片
+	New Shape Layer	新建形状图层
+	New Type Layer	新建类型图层
+	New Fill Layer	新建填充图层
+	New Adjustment Layer	新建调整图层
+	New Layer Based Slice	基于切片的新建图层
 	New Smart Object via Copy	通过复制创建新智能对象
 	New Blank Video Layer	新建空白视频层
 	New Video Layer from File…	来自文件的新视频层…
@@ -265,12 +265,12 @@
 	Drop Shadow…	阴影…
 	Copy Layer Style	复制图层样式
 	Paste Layer Style	粘贴图层样式
-	Clear Layer Style	清晰的图层样式
-	Global Light…	全球光…
+	Clear Layer Style	清除图层样式
+	Global Light…	全局光…
 	Hide All Effects	隐藏所有效果
-	Scale Effects…	规模效应…
-	Smart Filter	智能过滤器
-	Convert for Smart Filters	转换为智能过滤器
+	Scale Effects…	缩放效果…
+	Smart Filter	智能滤镜
+	Convert for Smart Filters	转换为智能滤镜
 	Clear Smart Filters	清除智能滤镜
 	Disable Smart Filters	禁用智能滤镜
 	Delete Filter Mask	删除滤镜遮罩
@@ -287,12 +287,12 @@
 	Delete Vector Mask	删除矢量蒙版
 	Enable Layer Mask	启用图层蒙版
 	Disable Layer Mask	禁用图层蒙版
-	Enable Vector Mask	开启矢量蒙版
-	Link Layer Mask	链路层掩码
+	Enable Vector Mask	启用矢量蒙版
+	Link Layer Mask	链连图层蒙板
 	Unlink Layer Mask	取消链接图层蒙版
 	Link Vector Mask	连接矢量蒙版
 	Add Vector Mask	添加矢量蒙版
-	Vector Mask from Current Path	当前路径的矢量掩码
+	Vector Mask from Current Path	当前路径的矢量蒙版
 	Create Clipping Mask	创建剪贴蒙版
 	Release Clipping Mask	释放剪贴蒙版
 	Smart Objects	智能对象
@@ -328,14 +328,14 @@
 	Insert Blank Frame	插入空白框
 	Delete Frame	删除帧
 	Duplicate Frame	重复帧
-	Frame from Layers	图层框架
+	Frame from Layers	图层帧
 	Video Frames to Layers…	视频帧到图层…
 	Rasterize	光栅化
 	Rasterize Type	光栅化类型
 	Rasterize Type Layer	栅格化类型图层
 	Rasterize Shape	栅格化形状
-	New Guide Layout…	新的指南布局…
-	New Guides From Shape	来自形状的新指南
+	New Guide Layout…	新建参考线布局…
+	New Guides From Shape	从形状新建参考线
 	Lock Layers…	锁定图层…
 	Link Layers	连接图层
 	Select Linked Layers	选择链接图层
@@ -393,12 +393,12 @@
 	Paragraph Styles Panel	段落样式面板
 	Glyphs Panel	字形面板
 	Anti-Alias	消除锯齿
-	Sharp	夏普
+	Sharp	尖锐
 	Crisp	酥脆
 	Strong	强
 	Smooth	平滑
-	Windows LCD	视窗液晶屏
-	Windows	窗户
+	Windows LCD	Windows LCD
+	Windows	Windows
 	Orientation	方向
 	Horizontal	水平
 	Vertical	垂直
@@ -431,7 +431,7 @@
 	Medium	中
 	Large	大
 	Extra Large	特大号
-	Huge	巨大的
+	Huge	巨大
 	Load Default Type Styles	加载默认类型样式
 	Save Default Type Styles	保存默认类型样式
 	Deselect	取消选择
@@ -448,10 +448,10 @@
 	Expand…	扩展…
 	Contract…	收缩…
 	Feather…	羽化…
-	Grow	成长
+	Grow	生长
 	Transform Selection	转换所选项
 	Edit in Quick Mask Mode	在快速蒙版模式下编辑
-	Load Selection…	负载选择…
+	Load Selection…	加载选择…
 	Save Selection…	保存选择…
 	Match All	全部匹配
 	Last Filter	上次滤镜
@@ -579,10 +579,10 @@
 	Current Path	当前路径
 	Grid	网格
 	Guides	参考线
-	Canvas Guides	画布指南
-	Artboard Guides	画板指南
+	Canvas Guides	画布参考线
+	Artboard Guides	画板参考线
 	Count	数量
-	Smart Guides	智能指南
+	Smart Guides	智能参考线
 	Slices	切片
 	Notes	注释
 	Pixel Grid	像素网格
@@ -599,14 +599,14 @@
 	Snap To	对齐到
 	Lock Guides	锁定导轨
 	Clear Guides	清除参考线
-	Clear Selected Artboard Guides	清除选定的画板指南
-	Clear Canvas Guides	清晰的画布指南
-	New Guide…	新指南…
+	Clear Selected Artboard Guides	清除所选画板参考线
+	Clear Canvas Guides	清除画布参考线
+	New Guide…	新建参考线…
 	Lock Slices	锁定切片
 	Clear Slices	清除切片
-	Match Zoom	比赛变焦
-	Match Location	比赛地点
-	Match Rotation	比赛轮换
+	Match Zoom	匹配缩放
+	Match Location	匹配位置
+	Match Rotation	匹配旋转
 	Cascade	级联
 	Tile	拼贴
 	Tile All Horizontally	全部水平平铺
@@ -617,13 +617,13 @@
 	3-up Stacked	3 层堆叠
 	3-up Vertical	3 向上垂直
 	4-up	4 向上
-	6-up	6 上
+	6-up	6 向上
 	Consolidate All to Tabs	将所有内容合并到选项卡
 	Float in Window	漂浮在窗口
 	Float All in Windows	在 Windows 中全部浮动
 	New Window for Document	文档的新窗口
 	Workspace	工作空间
-	Essentials	必需品
+	Essentials	必需
 	Graphic and Web	图形和网页
 	Painting	绘画
 	Photography	摄影
@@ -730,7 +730,7 @@
 	Amount	数值
 	Anchor:	锚：
 	Angle	角度
-	Angle Gradient	角度梯度
+	Angle Gradient	角度渐变
 	Angle Jitter	角度调整
 	Answer the unsaved-changes prompt first	首先回答未保存的更改提示
 	Anti-alias	消除锯齿
@@ -738,8 +738,8 @@
 	Appearance (Layer Style)	外观（图层样式）
 	Apply Layer Mask	应用图层蒙版
 	Apply Per Tip	按提示申请
-	Apply next selected layer comp	应用下一个选定的图层复合
-	Apply previous selected layer comp	应用先前选定的图层合成
+	Apply next selected layer comp	应用下一个所选图层复合
+	Apply previous selected layer comp	应用先前所选图层合成
 	Artboard	画板
 	Artboard Background Color	画板背景颜色
 	Assign working space	分配工作空间
@@ -777,7 +777,7 @@
 	Brightness	亮度
 	Brightness Jitter	亮度调整
 	Brightness/Contrast	亮度 / 对比度
-	Bring the selected pin forward	将选定的引脚向前移动
+	Bring the selected pin forward	将所选引脚向前移动
 	Brush Preset picker	画笔预设选择器
 	Brush Reconstruct Options	画笔重建选项
 	Brush Tool Options	画笔工具选项
@@ -797,7 +797,7 @@
 	Center	中心
 	Center Crop Marks	中心裁剪标记
 	Center text	中心文字
-	Change	改变
+	Change	更改
 	Change All	全部更改
 	Change Screen Mode  (F)	更改屏幕模式 (F)
 	Change To:	更改为：
@@ -810,7 +810,7 @@
 	Clear Override	清除覆盖
 	Clear Samples	清除样品
 	Click sets foreground · right-click sets background	单击设置前景·右键设置背景
-	Click the first point or press {key} to close · Esc cancels	单击第一个点或按{key}关闭·Esc取消
+	Click the first point or press {key} to close · Esc cancels	单击第一个点或按 {key} 关闭·Esc 取消
 	Click to add a point · drag off or {key}-click or Delete to remove	单击以添加点 · 拖出或按 {key} 键单击或删除以删除
 	Click to apply, {key}-click to clear overrides, double-click for Style Options	单击以应用，按住 {key} 单击以清除覆盖，双击以获取样式选项
 	Click to edit the gradient	单击可编辑渐变
@@ -885,7 +885,7 @@
 	Current & Below	当前和下方图层
 	Current Layer	当前图层
 	Current Size	当前尺寸
-	Current Tool Only	仅限当前工具
+	Current Tool Only	仅当前工具
 	Curve	曲线
 	Curves	曲线
 	Custom	自定义
@@ -916,7 +916,7 @@
 	Delete layer	删除图层
 	Delete layer comp	删除图层复合
 	Delete note	删除注释
-	Delete selected measurements	删除选定的测量值
+	Delete selected measurements	删除所选测量值
 	Delete style	删除样式
 	Delete tool preset	删除工具预设
 	Density	密度
@@ -926,14 +926,14 @@
 	Description	描述
 	Deselect All	取消全选
 	Detail	细节
-	Diamond Gradient	钻石渐变
+	Diamond Gradient	菱形渐变
 	Difference	差值
 	Diffusion	扩散
 	Discard the embedded profile (don't color manage)	放弃嵌入的配置文件（不进行颜色管理）
 	Discontiguous	不连续的
 	Feedback	反馈意见
-	Dismiss	解雇
-	Display P3	显示P3
+	Dismiss	解散
+	Display P3	显示 P3
 	Display Text	显示文字
 	Dither	抖动
 	Divide…	划分…
@@ -960,7 +960,7 @@
 	Exact	准确
 	Expansion:	扩展：
 	Export Presets	导出预设
-	Export selected measurements (CSV)	导出选定的测量结果 (CSV)
+	Export selected measurements (CSV)	导出所选测量结果 (CSV)
 	Exposure	曝光度
 	Exposure and Gamma	曝光和伽玛
 	Exposure:	曝光：
@@ -972,7 +972,7 @@
 	Fewer Points	更少的分数
 	File Settings	文件设置
 	Fill	填充
-	Fill:	填写：
+	Fill:	填充：
 	Filter for adjustment layers	调整图层过滤器
 	Filter for pixel layers	像素层过滤器
 	Filter for shape layers	形状图层过滤器
@@ -1002,21 +1002,21 @@
 	Foreground to Background	前景到背景
 	Foreground/Background Jitter	前景/背景调整
 	Format	格式
-	Frame from Layers…	分层框架…
-	Free	释放
-	Full Spherical	全球形
+	Frame from Layers…	分层帧…
+	Free	自由
+	Full Spherical	全局形
 	Fuzziness:	模糊性：
 	GPU	图形处理器
 	Gamma Correction	伽玛校正
 	Gamma:	伽玛：
-	Global	全球
+	Global	全局
 	Glow Color	发光颜色
 	Gradient Map	渐变映射
 	Grain	颗粒
 	Gray	灰色
 	Gray Gamma 2.2	灰度伽玛2.2
 	Green	绿色
-	Group	集团
+	Group	分组
 	Hardness	硬度
 	Heart	心
 	Height	高度
@@ -1077,13 +1077,13 @@
 	Levels	色阶
 	Lighten	变亮
 	Lightness	明度
-	Lights	灯
+	Lights	灯光
 	Limits:	限制：
 	Linear Gradient	线性渐变
 	Link layers	连接图层
 	Link width and height	链接宽度和高度
 	Liquify is not open	液化没打开
-	Load	负载
+	Load	加载
 	Load 3D LUT…	加载 3D LUT…
 	Load Photoshop brushes (.abr)	加载 Photoshop 画笔 (.abr)
 	Load channel as selection	加载通道作为选择
@@ -1126,15 +1126,15 @@
 	More Points	更多积分
 	Move effect layer down	向下移动效果层
 	Move effect layer up	向上移动效果层
-	Move to	移至
-	Name	名字
-	Name:	姓名：
+	Move to	移动到
+	Name	名称
+	Name:	名称：
 	Nearest Neighbor	最近邻
 	Nearest Neighbor (hard edges)	最近邻（硬边）
-	New Size	新尺寸
-	New document…	新文件…
-	New effect layer	新效果层
-	New selection	新选择
+	New Size	新建尺寸
+	New document…	新建文件…
+	New effect layer	新建效果图层
+	New selection	新建选择
 	Next frame	下一帧
 	Next note	下一条注释
 	No Color	无颜色
@@ -1152,7 +1152,7 @@
 	Normal	正常
 	Not in Dictionary:	字典中没有：
 	OK	确定
-	Offset	补偿
+	Offset	偏移
 	Only Web Colors	仅网页颜色
 	Opacity	透明度
 	Opacity Jitter	不透明度抖动
@@ -1160,12 +1160,12 @@
 	Open a document to define variables.	打开文档以定义变量。
 	Open a document to select a colour range.	打开文档以选择颜色范围。
 	Open a document to use the timeline.	打开文档以使用时间轴。
-	Optical	光学的
+	Optical	光学
 	Optimized	优化
 	Option-click to define a source point to clone from	按住 Option 键单击以定义要从中克隆的源点
 	Original	原创
 	Output Channel:	输出通道：
-	Output Levels:	输出电平：
+	Output Levels:	输出级别：
 	Output:	输出：
 	Outside	外部
 	Overlay Color	叠加颜色
@@ -1184,7 +1184,7 @@
 	Pattern Size	图案尺寸
 	Pause	暂停
 	Percent	百分比
-	Perceptual	感性的
+	Perceptual	感知
 	Perspective Warp is not active	透视变形未激活
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	透视变形：沿着图像的透视绘制平面，然后切换到变形
 	Photo Filter	图片滤镜
@@ -1196,7 +1196,7 @@
 	Pixels/Centimeter	像素/厘米
 	Pixels/Inch	像素/英寸
 	Pixels:	像素：
-	Play	玩
+	Play	播放
 	Play selection	播放选择
 	Portrait	纵向
 	Position	位置
@@ -1216,13 +1216,13 @@
 	Preview	预览
 	Previous frame	上一帧
 	Previous note	上一条注释
-	Print	Print
+	Print	打印
 	Printer	打印机
 	Printer Manages Colors	打印机管理颜色
 	Printer Setup	打印机设置
-	Printing Marks	印刷标记
-	Progressive	进步的
-	Promote	推广
+	Printing Marks	打印标记
+	Progressive	进步
+	Promote	推动
 	Protect Detail	保护细节
 	Protect Foreground Color	保护前景色
 	Protect Tones	保护音
@@ -1243,7 +1243,7 @@
 	Record ● a sequence of edits, then play ▶ it on any document.	记录 ● 一系列编辑，然后在任何文档上播放 ▶ 。
 	Red	红
 	Redefine style by current selection	通过当前选择重新定义样式
-	Reflected Gradient	反射梯度
+	Reflected Gradient	反射渐变
 	Registration Marks	注册标记
 	Regular	常规
 	Relative	相对
@@ -1261,7 +1261,7 @@
 	Rename…	重命名…
 	Resample	重新采样
 	Reset All to Defaults	全部重置为默认值
-	Reset Section	复位部分
+	Reset Section	重置部分
 	Reset Transform	重置变换
 	Reset to defaults	重置为默认值
 	Resolution	分辨率
@@ -1305,7 +1305,7 @@
 	Selections	选集
 	Selective	选择性
 	Selective Color	可选颜色
-	Send the selected pin backward	将选定的引脚向后发送
+	Send the selected pin backward	将所选引脚向后发送
 	Set additional smoothing options	设置附加平滑选项
 	Set background color	设置背景颜色
 	Set foreground color	设置前景色
@@ -1320,8 +1320,8 @@
 	Shortcut removed.	快捷方式已删除。
 	Show All Menu Items	显示所有菜单项
 	Show Backdrop	显示背景
-	Show Guides	演出指南
-	Show Mask	显示面具
+	Show Guides	显示参考线
+	Show Mask	显示蒙板
 	Show Mesh	显示网格
 	Show Overlay	显示叠加
 	Show Transform Controls	显示变换控件
@@ -1333,7 +1333,7 @@
 	Size Jitter	大小调整
 	Size:	尺寸：
 	Slice Options…	切片选项…
-	Slices From Guides	指南中的切片
+	Slices From Guides	参考线中的切片
 	Slices are locked (View › Lock Slices)	切片已锁定（查看 › 锁定切片）
 	Small Caps	小号大写字母
 	Smoothing	平滑
@@ -1349,12 +1349,12 @@
 	Strength:	强度：
 	Strikethrough	删除线
 	Stroke	描边
-	Stroke Catch-up	中风追赶
-	Stroke:	行程：
+	Stroke Catch-up	描边追赶
+	Stroke:	描边
 	Style	样式
-	Style Options	风格选项
-	Style Options…	风格选项…
-	Style: Normal	风格: 普通
+	Style Options	样式选项
+	Style Options…	样式选项…
+	Style: Normal	样式: 普通
 	Subtract from Sample	从取样中减去
 	Subtract from selection  ({key})	从选择中减去 ({key})
 	Suggestions:	建议：
@@ -1376,8 +1376,8 @@
 	Toggle count group visibility	切换计数组可见性
 	Toggle text orientation	切换文本方向
 	Tolerance	容差
-	Tolerance:	公差：
-	Tone:	语气：
+	Tolerance:	容差
+	Tone:	色调：
 	Toolbar	工具栏
 	Top	上
 	Total:	总计：
@@ -1389,8 +1389,8 @@
 	Type Styles	类型样式
 	Type:	类型：
 	Underline	下划线
-	Untitled	未标题
-	Untitled-1	无题-1
+	Untitled	未命名
+	Untitled-1	未命名-1
 	Update layer comp (visibility, position and appearance)	更新图层组合（可见性、位置和外观）
 	Use Default	使用默认值
 	Use Legacy	使用旧版
@@ -1410,8 +1410,8 @@
 	Weight:	重量：
 	White	白色
 	White Balance: As Shot	白平衡：拍摄时
-	Whites	白人
-	Width	宽
+	Whites	白色
+	Width	宽度
 	Width:	宽度：
 	Work Path	工作路径
 	Yellow	黄色
@@ -1422,8 +1422,8 @@
 	command or shortcut	命令或快捷方式
 	current	当前颜色
 	image file path	图像文件路径
-	modified	修改过的
-	name	名字
+	modified	修改
+	name	名称
 	new	新建
 	{name} options	选项 {name}
 	↑↓ navigate   {key} run   esc close	↑↓ 导航 {key} 运行 esc 关闭
@@ -1435,12 +1435,12 @@
 	Altitude	海拔高度
 	Android 1080p	安卓 1080p
 	Apple Watch 45mm	苹果手表 45 毫米
-	Aqua	阿夸
+	Aqua	Aqua
 	Art & Illustration	艺术与插画
 	Background Eraser Tool	背景橡皮擦工具
 	Bevel & Emboss	斜角和浮雕
 	Blend Mode	混合模式
-	Blues	布鲁斯
+	Blues	蓝调
 	Blur Tool	模糊
 	Bold	大胆
 	Brush	笔刷
@@ -1450,7 +1450,7 @@
 	Build-up	建立
 	Burn Tool	加深工具
 	Centimeters	厘米
-	Choke	窒息
+	Choke	阻塞
 	Classic	经典
 	Click to add text	点击添加文字
 	Click to fill similar colours	单击填充相似颜色
@@ -1477,11 +1477,11 @@
 	Dimensions:	尺寸：
 	Direction	方向
 	Distance	距离
-	Document Dimensions	文件尺寸
-	Document Profile	文件简介
+	Document Dimensions	文档尺寸
+	Document Profile	文档配置文件
 	Document Sizes	文档尺寸
 	Dodge Tool	减淡工具
-	Down	下
+	Down	向下
 	Drag to draw a gradient	拖动以绘制渐变
 	Drag to move the active layer	拖动以移动活动图层
 	Drag to pan  ·  hold Space with any tool	拖动平移·使用任何工具按住空格
@@ -1530,8 +1530,8 @@
 	Layer Count	层数
 	Layer Knocks Out Drop Shadow	图层消除投影
 	Legal	法律
-	Letter	信
-	Light	轻
+	Letter	信封
+	Light	灯光
 	Line Tool	直线工具
 	Linear	线性
 	Linear Burn	线性加深
@@ -1575,7 +1575,7 @@
 	Pillow Emboss	枕状浮雕
 	Pixel Replacement	像素替换
 	Pixels	像素
-	Points	积分
+	Points	点
 	Polygon Tool	多边形工具
 	Polygonal Lasso Tool	多边形套索工具
 	Portrait, 4 x 6	肖像，4 x 6
@@ -1595,7 +1595,7 @@
 	Recent	最近
 	Rectangle Tool	矩形工具
 	Rectangular Marquee Tool	矩形选框工具
-	Reds	红人
+	Reds	红色
 	Reflected	倒影
 	Sample: foreground colour	示例：前景色
 	Sampled Colors	采样颜色
@@ -1616,7 +1616,7 @@
 	Smudge Tool	涂抹工具
 	Soft	柔和
 	Soften	软化
-	Source	源
+	Source	来源
 	Source: set	来源：设定
 	Sponge Tool	海绵工具
 	Spot Healing Brush Tool	污点修复笔刷工具
@@ -1662,7 +1662,7 @@
 @plural	{n} Layer|{n} Layers	{n} 个图层
 @plural	Group · {n} layer|Group · {n} layers	组 · {n} 个图层
 	Additional plugins folder	附加插件文件夹
-	Adobe	土坯
+	Adobe	Adobe
 	Adobe rgb	Adobe RGB
 	Allow agent control	允许代理控制
 	Allow scripts to connect	允许脚本连接
@@ -1698,18 +1698,18 @@
 	Cursors	光标
 	Custom dark	定制深色
 	Custom light	定制灯
-	Dark	黑暗
+	Dark	深色
 	Dark gray	深灰色
 	Dashed lines	虚线
 	Destination	目标
 	Detailed	详细
 	Disks	磁盘
-	Display p3	显示p3
+	Display p3	显示 p3
 	Double click layer mask launches select and mask	双击图层蒙版启动选择和蒙版
 	Drop shadow	阴影
 	Dynamic color sliders	动态颜色滑块
 	East asian	东亚
-	Effect cache mb	效果缓存MB
+	Effect cache mb	效果缓存 MB
 	Enable flick panning	启用轻拂平移
 	Enable floating document window docking	启用浮动文档窗口停靠
 	Enable narrow options bar	启用窄选项栏
@@ -1733,8 +1733,8 @@
 	Grid style	网格样式
 	Grid unit	网格单元
 	Gridline every	网格线每隔
-	Guide color	指导色
-	Guide style	导游风格
+	Guide color	参考线颜色
+	Guide style	参考线样式
 	Guides, Grid & Slices	参考线、网格和切片
 	Gutter	天沟
 	History Log	历史记录
@@ -1758,9 +1758,9 @@
 	Memory usage mb	内存使用量mb
 	Missing glyph protection	缺少字形保护
 	Modern	现代
-	Nearest neighbor	最近邻居
-	Never	从来没有
-	Normal tip	正常小费
+	Nearest neighbor	最近邻
+	Never	从不
+	Normal tip	普通尖端
 	Open as smart object	作为智能对象打开
 	Open documents as tabs	作为选项卡打开文档
 	Overscroll	过度滚动
@@ -1804,25 +1804,25 @@
 	Smart quotes	智能报价
 	Snap vector tools and transforms to pixel grid	捕捉矢量工具并转换为像素网格
 	Srgb	斯尔格布
-	Standard	标准型
+	Standard	标准
 	Studio	工作室
 	Studio light	演播室灯
 	Subdivisions	子网格
 	System	系统
 	Text engine	文本引擎
 	Text file	文本文件
-	Tiny	微小的
+	Tiny	微小
 	Touch gestures	触摸手势
 	Transparency & Gamut	透明度和色域
 	Type units	类型单位
-	UI font size	UI字体大小
+	UI font size	UI 字体大小
 	UI scale	用户界面比例
 	Units & Rulers	单位和标尺
 	Use additional plugins folder	使用附加插件文件夹
-	Use esc to commit	使用esc提交
-	Use gpu	使用GPU
+	Use esc to commit	使用 esc 提交
+	Use gpu	使用 GPU
 	Use legacy free transform	使用旧版自由变换
-	Use shift key for tool switch	使用shift键进行工具切换
+	Use shift key for tool switch	使用 shift 键进行工具切换
 	Vary round brush hardness on hud	改变平视显示器上的圆刷硬度
 	Webp	Webp
 	World ready	世界准备好了
@@ -1833,7 +1833,7 @@
 	Pass Through	穿透
 	Dissolve	溶解
 	Darker Color	浅色
-	Linear Dodge (Add)	线性闪避（添加）
+	Linear Dodge (Add)	线性减淡（添加）
 	Lighter Color	深色
 	Soft Light	柔光
 	Hard Light	强光
@@ -1889,7 +1889,7 @@
 	Pixel Layer	像素层
 	Type Layer	类型层
 	Shape Layer	形状层
-	Group Layer	组层
+	Group Layer	组图层
 	Fill Layer	填充层
 	Smart Object Layer	智能对象层
 	Create Warped Text	创建扭曲的文本
@@ -1913,7 +1913,7 @@
 	Tilt Scale	倾斜刻度
 	Brush Projection	笔刷投影
 	Apply the pen's tilt and rotation to the tip shape	将笔的倾斜和旋转应用到笔尖形状
-	Mixer Brush	搅拌机刷
+	Mixer Brush	混合笔刷
 	Wet	湿
 	Mix	混合
 	Wetness Jitter	湿度抖动
